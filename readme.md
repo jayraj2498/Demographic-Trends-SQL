@@ -1,4 +1,5 @@
 # Demographic and Census Data Analysis SQL Project
+### Demographic Insights: Analyzing Census Data with SQL
 
 This SQL project aims to analyze demographic and census data from two datasets: `data1` and `data2`. The project involves exploring the datasets, analyzing demographic trends, and deriving insights from various SQL queries.
 
